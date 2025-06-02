@@ -30,18 +30,8 @@ Check out the live version here: [poke-list-seven.vercel.app](https://poke-list-
 
 ## ⚙️ Get Started
 
-1.  **Clone the repo:** `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+1.  **Clone the repo:** `git clone https://github.com/DjonatanW/poke-list.git`
 2.  **Install dependencies:** `npm install` (or `yarn install`)
 3.  **Run locally:** `npm run dev` (or `yarn dev`)
 
 ---
-
-## 🤝 Contributing
-
-Feel free to contribute! Fork the repo, make your changes, and open a Pull Request.
-
----
-
-## 📄 License
-
-This project is under the [MIT License](https://opensource.org/licenses/MIT).
